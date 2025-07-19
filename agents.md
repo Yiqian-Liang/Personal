@@ -1,3 +1,6 @@
+# Scientific Agent Workflow (Mermaid)
+
+```mermaid
 flowchart TD
   %% Supervisors
   subgraph Supervisors [Supervisors (optional)]
